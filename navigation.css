@@ -1,0 +1,100 @@
+#navHeader{
+font-weight:bold;
+font-size:14px;
+font-family:Arial,helvetica;
+color:#330000;
+position:absolute;
+top:375px;
+left:80px;
+}
+.navContainer{
+position:relative;
+top:324px;
+left:55px;
+width:323px;
+height:401px;
+background-image: url(http://media.expedia.com/media/content/expus/graphics/promos/deals/bracket.gif);
+background-repeat: no-repeat;
+background-position: right top;
+}
+.navList{
+margin-top:50px;
+margin-left:0px;
+}
+.menulistitem{
+color: #391701 !important;
+display: block;
+width: 319px;
+height: 20px;
+padding-left: 5px;
+padding-top: 5px;
+text-decoration: none;
+font-weight: bold;
+font:bold 14px Arial;
+cursor:pointer;
+vertical-align:middle;
+}
+.slideshow{
+position:absolute;
+top:331px;
+left:385px;
+}
+#pressboardMount{
+width:350px;
+height:347px;
+}
+.content{
+clear:both;
+font-family:Arial; 
+font-size:12; 
+color:#330000; 
+font-weight:normal;
+position:absolute;
+left:390px;
+top:664px;
+width:367px;
+}
+.turnHoverOn{
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media.expedia.com/media/content/expus/graphics/promos/deals/nav_Over.png', sizingMethod='scale');
+color: #ffffff !important;
+display: block;
+width: 316px;
+height: 20px;
+padding-left: 5px;
+padding-top: 5px;
+text-decoration: none !important;
+font-weight: bold;
+font:bold 14px Arial;
+cursor:pointer;
+}
+.turnHoverOff{
+color:#391701 !important;
+display: block;
+width: 316px;
+height: 20px;
+padding-left: 5px;
+padding-top: 5px;
+text-decoration: none !important;
+font-weight: bold;
+font:bold 14px Arial;
+}
+.JonesOff{
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media.expedia.com/media/content/expus/graphics/promos/deals/IndianaJones.png', sizingMethod='scale');
+width:321px;
+height:50px;
+display: block;
+cursor:pointer;
+}
+.JonesOn{
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media.expedia.com/media/content/expus/graphics/promos/deals/IndianaJones_on.png', sizingMethod='scale');
+width:321px;
+height:50px;
+display: block;
+cursor:pointer;
+}
+.catLink{
+color:#330000 !important;
+}
+.catLinkHover{
+color:#990000 !important;
+}

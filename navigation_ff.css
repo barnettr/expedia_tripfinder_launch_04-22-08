@@ -1,0 +1,108 @@
+#navHeader{
+font-weight:bold;
+font-size:14px;
+font-family:Arial,helvetica;
+color:#330000;
+position:absolute;
+top:375px;
+left:80px;
+}
+.navContainer
+{
+position:relative;
+top:326px;
+width:319px;
+height:400px;
+left:55px;
+background-image: url(http://media.expedia.com/media/content/expus/graphics/promos/deals/bracket.gif);
+background-repeat: no-repeat;
+background-position: right top;
+}
+.navList{
+padding-top:45px;
+}
+.menulistitem{
+color: #391701 !important;
+display: block;
+width: 319px;
+height: 22px;
+padding-left: 5px;
+padding-top: 2px;
+text-decoration: none;
+font-weight: bold;
+font:bold 12px Arial;
+cursor:pointer;
+}
+.slideshow{
+position:absolute;
+top:330px;
+left:385px;
+}
+.content{
+clear:both;
+font-family:Arial; 
+font-size:12; 
+color:#000000; 
+font-weight:normal;
+position:absolute;
+left:388px;
+top:665px;
+width:367px;
+}
+.turnHoverOn{
+background-image: url(http://media.expedia.com/media/content/expus/graphics/promos/deals/nav_Over.png);
+background-repeat: no-repeat;
+color: #ffffff !important;
+display: block;
+width: 317px;
+height: 22px;
+padding-left: 5px;
+padding-top: 2px;
+text-decoration: none !important;
+font-weight: bold;
+font:bold 12px Arial;
+cursor:pointer;
+}
+.turnHoverOff{
+color:#391701 !important;
+display: block;
+width: 317px;
+height: 22px;
+padding-left: 5px;
+padding-top: 2px;
+text-decoration: none !important;
+font-weight: bold;
+font:bold 12px Arial;
+}
+.JonesOff{
+background-image: url(http://media.expedia.com/media/content/expus/graphics/promos/deals/IndianaJones.png);
+background-repeat: no-repeat;
+width:317px;
+height:50px;
+display: block;
+cursor:pointer;
+}
+.JonesOn{
+background-image: url(http://media.expedia.com/media/content/expus/graphics/promos/deals/IndianaJones_on.png);
+background-repeat: no-repeat;
+width:317px;
+height:50px;
+display: block;
+cursor:pointer;
+}
+#pressboardMount{
+background-image:url(http://media.expedia.com/media/content/expus/graphics/promos/deals/polaroid_frame.png);
+background-repeat: no-repeat;
+}
+.catLink{
+color:#330000 !important;
+}
+.catLinkHover{
+color:#990000 !important;
+}
+#summersale{
+background-image:url(http://media.expedia.com/media/content/expus/graphics/promos/deals/tripfinder/ad_summersale.png);
+background-repeat:no-repeat;
+width:179px;
+height:150px;
+}

@@ -1,0 +1,666 @@
+﻿<soatripfinder promo="SOA 2008" CID="9">
+  <region id="657" name="Mumbai">
+    <hotelprice>99.00</hotelprice>
+    <pkgprice>1881.00</pkgprice>
+  </region>
+  <region id="1079" name="Dubai">
+    <hotelprice>102.00</hotelprice>
+    <pkgprice>1529.00</pkgprice>
+  </region>
+  <region id="1476" name="Phuket">
+    <hotelprice>50.00</hotelprice>
+    <pkgprice>1636.00</pkgprice>
+  </region>
+  <region id="2134" name="Dominican Republic">
+    <hotelprice>149.00</hotelprice>
+    <pkgprice>642.00</pkgprice>
+  </region>
+  <region id="2417" name="Monterey">
+    <hotelprice>74.00</hotelprice>
+    <pkgprice>606.00</pkgprice>
+  </region>
+  <region id="2543" name="Jamaica">
+    <hotelprice>41.00</hotelprice>
+    <pkgprice>406.00</pkgprice>
+  </region>
+  <region id="2975" name="Siem Reap">
+    <hotelprice>30.00</hotelprice>
+    <pkgprice>1751.00</pkgprice>
+  </region>
+  <region id="3068" name="Santa Fe">
+    <hotelprice>146.00</hotelprice>
+    <pkgprice>708.00</pkgprice>
+  </region>
+  <region id="3087" name="Steamboat Springs">
+    <hotelprice>117.00</hotelprice>
+    <pkgprice>534.00</pkgprice>
+  </region>
+  <region id="3574" name="Tucson">
+    <hotelprice>48.00</hotelprice>
+    <pkgprice>427.00</pkgprice>
+  </region>
+  <region id="3657" name="Koh Samui">
+    <hotelprice>78.00</hotelprice>
+    <pkgprice>1898.00</pkgprice>
+  </region>
+  <region id="4138" name="Victoria">
+    <hotelprice>91.00</hotelprice>
+    <pkgprice>444.00</pkgprice>
+  </region>
+  <region id="5776" name="Marbella">
+    <hotelprice>237.00</hotelprice>
+    <pkgprice>1590.00</pkgprice>
+  </region>
+  <region id="5921" name="Anaheim">
+    <hotelprice>69.00</hotelprice>
+    <pkgprice>441.00</pkgprice>
+  </region>
+  <region id="6296" name="Williamsburg">
+    <hotelprice>76.00</hotelprice>
+    <pkgprice>498.00</pkgprice>
+  </region>
+  <region id="7053" name="Vail">
+    <hotelprice>149.00</hotelprice>
+    <pkgprice>635.00</pkgprice>
+  </region>
+  <region id="8021" name="Panama City">
+    <hotelprice>119.00</hotelprice>
+    <pkgprice>577.00</pkgprice>
+  </region>
+  <region id="10323" name="Kyoto">
+    <hotelprice>118.00</hotelprice>
+    <pkgprice>1555.00</pkgprice>
+  </region>
+  <region id="10430" name="Tacoma">
+    <hotelprice>45.00</hotelprice>
+    <pkgprice>377.00</pkgprice>
+  </region>
+  <region id="10782" name="Keystone">
+    <hotelprice>108.00</hotelprice>
+    <pkgprice>496.00</pkgprice>
+  </region>
+  <region id="11926" name="Breckenridge">
+    <hotelprice>101.00</hotelprice>
+    <pkgprice>513.00</pkgprice>
+  </region>
+  <region id="55374" name="Mont-Tremblant">
+    <hotelprice>106.00</hotelprice>
+    <pkgprice>0.00</pkgprice>
+  </region>
+  <region id="129440" name="New York City">
+    <hotelprice>63.00</hotelprice>
+    <pkgprice>384.00</pkgprice>
+  </region>
+  <region id="135596" name="Crested Butte">
+    <hotelprice>76.00</hotelprice>
+    <pkgprice>584.00</pkgprice>
+  </region>
+  <region id="177831" name="Big Sky">
+    <hotelprice>85.00</hotelprice>
+    <pkgprice>528.00</pkgprice>
+  </region>
+  <region id="177865" name="New Delhi">
+    <hotelprice>21.00</hotelprice>
+    <pkgprice>1487.00</pkgprice>
+  </region>
+  <region id="178229" name="Amsterdam">
+    <hotelprice>89.00</hotelprice>
+    <pkgprice>1245.00</pkgprice>
+  </region>
+  <region id="178232" name="Atlanta">
+    <hotelprice>83.00</hotelprice>
+    <pkgprice>546.00</pkgprice>
+  </region>
+  <region id="178233" name="Auckland">
+    <hotelprice>75.00</hotelprice>
+    <pkgprice>1478.00</pkgprice>
+  </region>
+  <region id="178234" name="Austin">
+    <hotelprice>60.00</hotelprice>
+    <pkgprice>421.00</pkgprice>
+  </region>
+  <region id="178235" name="Baltimore">
+    <hotelprice>113.00</hotelprice>
+    <pkgprice>477.00</pkgprice>
+  </region>
+  <region id="178236" name="Bangkok">
+    <hotelprice>45.00</hotelprice>
+    <pkgprice>1358.00</pkgprice>
+  </region>
+  <region id="178237" name="Beijing">
+    <hotelprice>48.00</hotelprice>
+    <pkgprice>1449.00</pkgprice>
+  </region>
+  <region id="178239" name="Boston">
+    <hotelprice>80.00</hotelprice>
+    <pkgprice>413.00</pkgprice>
+  </region>
+  <region id="178242" name="Buenos Aires">
+    <hotelprice>97.00</hotelprice>
+    <pkgprice>1193.00</pkgprice>
+  </region>
+  <region id="178245" name="Calgary">
+    <hotelprice>75.00</hotelprice>
+    <pkgprice>563.00</pkgprice>
+  </region>
+  <region id="178248" name="Chicago">
+    <hotelprice>74.00</hotelprice>
+    <pkgprice>391.00</pkgprice>
+  </region>
+  <region id="178251" name="Columbus">
+    <hotelprice>39.00</hotelprice>
+    <pkgprice>331.00</pkgprice>
+  </region>
+  <region id="178252" name="Copenhagen">
+    <hotelprice>185.00</hotelprice>
+    <pkgprice>1461.00</pkgprice>
+  </region>
+  <region id="178253" name="Dallas">
+    <hotelprice>34.00</hotelprice>
+    <pkgprice>328.00</pkgprice>
+  </region>
+  <region id="178254" name="Denver">
+    <hotelprice>60.00</hotelprice>
+    <pkgprice>397.00</pkgprice>
+  </region>
+  <region id="178255" name="Detroit">
+    <hotelprice>59.00</hotelprice>
+    <pkgprice>377.00</pkgprice>
+  </region>
+  <region id="178256" name="Dublin">
+    <hotelprice>0.00</hotelprice>
+    <pkgprice>0.00</pkgprice>
+  </region>
+  <region id="178257" name="Edinburgh">
+    <hotelprice>198.00</hotelprice>
+    <pkgprice>1446.00</pkgprice>
+  </region>
+  <region id="178265" name="Houston">
+    <hotelprice>42.00</hotelprice>
+    <pkgprice>343.00</pkgprice>
+  </region>
+  <region id="178266" name="Indianapolis">
+    <hotelprice>66.00</hotelprice>
+    <pkgprice>417.00</pkgprice>
+  </region>
+  <region id="178267" name="Istanbul">
+    <hotelprice>96.00</hotelprice>
+    <pkgprice>1384.00</pkgprice>
+  </region>
+  <region id="178273" name="Kansas City">
+    <hotelprice>53.00</hotelprice>
+    <pkgprice>274.00</pkgprice>
+  </region>
+  <region id="178276" name="Las Vegas">
+    <hotelprice>32.00</hotelprice>
+    <pkgprice>223.00</pkgprice>
+  </region>
+  <region id="178279" name="London">
+    <hotelprice>139.00</hotelprice>
+    <pkgprice>1131.00</pkgprice>
+  </region>
+  <region id="178280" name="Los Angeles">
+    <hotelprice>60.00</hotelprice>
+    <pkgprice>376.00</pkgprice>
+  </region>
+  <region id="178281" name="Madrid">
+    <hotelprice>88.00</hotelprice>
+    <pkgprice>1208.00</pkgprice>
+  </region>
+  <region id="178284" name="Memphis">
+    <hotelprice>53.00</hotelprice>
+    <pkgprice>440.00</pkgprice>
+  </region>
+  <region id="178285" name="Mexico City">
+    <hotelprice>35.00</hotelprice>
+    <pkgprice>457.00</pkgprice>
+  </region>
+  <region id="178286" name="Miami">
+    <hotelprice>69.00</hotelprice>
+    <pkgprice>367.00</pkgprice>
+  </region>
+  <region id="178287" name="Minneapolis">
+    <hotelprice>60.00</hotelprice>
+    <pkgprice>322.00</pkgprice>
+  </region>
+  <region id="178288" name="Montreal">
+    <hotelprice>95.00</hotelprice>
+    <pkgprice>522.00</pkgprice>
+  </region>
+  <region id="178291" name="Nashville">
+    <hotelprice>59.00</hotelprice>
+    <pkgprice>0.00</pkgprice>
+  </region>
+  <region id="178292" name="New Orleans">
+    <hotelprice>52.00</hotelprice>
+    <pkgprice>396.00</pkgprice>
+  </region>
+  <region id="178294" name="Orlando">
+    <hotelprice>0.00</hotelprice>
+    <pkgprice>0.00</pkgprice>
+  </region>
+  <region id="178296" name="Ottawa">
+    <hotelprice>82.00</hotelprice>
+    <pkgprice>590.00</pkgprice>
+  </region>
+  <region id="178297" name="Philadelphia">
+    <hotelprice>97.00</hotelprice>
+    <pkgprice>464.00</pkgprice>
+  </region>
+  <region id="178298" name="Phoenix">
+    <hotelprice>53.00</hotelprice>
+    <pkgprice>340.00</pkgprice>
+  </region>
+  <region id="178299" name="Portland">
+    <hotelprice>53.00</hotelprice>
+    <pkgprice>391.00</pkgprice>
+  </region>
+  <region id="178300" name="Raleigh">
+    <hotelprice>57.00</hotelprice>
+    <pkgprice>365.00</pkgprice>
+  </region>
+  <region id="178301" name="Rio de Janeiro">
+    <hotelprice>66.00</hotelprice>
+    <pkgprice>1051.00</pkgprice>
+  </region>
+  <region id="178302" name="Salt Lake City">
+    <hotelprice>58.00</hotelprice>
+    <pkgprice>386.00</pkgprice>
+  </region>
+  <region id="178303" name="San Antonio">
+    <hotelprice>94.00</hotelprice>
+    <pkgprice>469.00</pkgprice>
+  </region>
+  <region id="178304" name="San Diego">
+    <hotelprice>93.00</hotelprice>
+    <pkgprice>383.00</pkgprice>
+  </region>
+  <region id="178305" name="San Francisco">
+    <hotelprice>69.00</hotelprice>
+    <pkgprice>358.00</pkgprice>
+  </region>
+  <region id="178307" name="Seattle">
+    <hotelprice>90.00</hotelprice>
+    <pkgprice>465.00</pkgprice>
+  </region>
+  <region id="178309" name="St. Louis">
+    <hotelprice>69.00</hotelprice>
+    <pkgprice>361.00</pkgprice>
+  </region>
+  <region id="178310" name="St. Petersburg/Clearwater">
+    <hotelprice>62.00</hotelprice>
+    <pkgprice>302.00</pkgprice>
+  </region>
+  <region id="178312" name="Sydney">
+    <hotelprice>104.00</hotelprice>
+    <pkgprice>1530.00</pkgprice>
+  </region>
+  <region id="178314" name="Toronto">
+    <hotelprice>98.00</hotelprice>
+    <pkgprice>490.00</pkgprice>
+  </region>
+  <region id="178315" name="Vancouver">
+    <hotelprice>137.00</hotelprice>
+    <pkgprice>543.00</pkgprice>
+  </region>
+  <region id="178316" name="Vienna">
+    <hotelprice>123.00</hotelprice>
+    <pkgprice>1280.00</pkgprice>
+  </region>
+  <region id="178318" name="Washington, D.C.">
+    <hotelprice>76.00</hotelprice>
+    <pkgprice>424.00</pkgprice>
+  </region>
+  <region id="179893" name="Florence">
+    <hotelprice>0.00</hotelprice>
+    <pkgprice>0.00</pkgprice>
+  </region>
+  <region id="179894" name="Frankfurt">
+    <hotelprice>50.00</hotelprice>
+    <pkgprice>1097.00</pkgprice>
+  </region>
+  <region id="179896" name="Munich">
+    <hotelprice>87.00</hotelprice>
+    <pkgprice>1179.00</pkgprice>
+  </region>
+  <region id="179897" name="Osaka">
+    <hotelprice>108.00</hotelprice>
+    <pkgprice>1549.00</pkgprice>
+  </region>
+  <region id="179898" name="Paris">
+    <hotelprice>110.00</hotelprice>
+    <pkgprice>1260.00</pkgprice>
+  </region>
+  <region id="179899" name="Paris">
+    <hotelprice>79.00</hotelprice>
+    <pkgprice>1227.00</pkgprice>
+  </region>
+  <region id="179899" name="Rome">
+    <hotelprice>79.00</hotelprice>
+    <pkgprice>1227.00</pkgprice>
+  </region>
+  <region id="179900" name="Tokyo">
+    <hotelprice>133.00</hotelprice>
+    <pkgprice>1511.00</pkgprice>
+  </region>
+  <region id="179991" name="Acapulco">
+    <hotelprice>55.00</hotelprice>
+    <pkgprice>553.00</pkgprice>
+  </region>
+  <region id="179995" name="Cancun">
+    <hotelprice>0.00</hotelprice>
+    <pkgprice>0.00</pkgprice>
+  </region>
+  <region id="179996" name="Christchurch">
+    <hotelprice>77.00</hotelprice>
+    <pkgprice>1533.00</pkgprice>
+  </region>
+  <region id="179997" name="Charleston">
+    <hotelprice>159.00</hotelprice>
+    <pkgprice>644.00</pkgprice>
+  </region>
+  <region id="179998" name="Cologne">
+    <hotelprice>87.00</hotelprice>
+    <pkgprice>1242.00</pkgprice>
+  </region>
+  <region id="180001" name="Dusseldorf">
+    <hotelprice>58.00</hotelprice>
+    <pkgprice>1162.00</pkgprice>
+  </region>
+  <region id="180002" name="Edmonton">
+    <hotelprice>96.00</hotelprice>
+    <pkgprice>582.00</pkgprice>
+  </region>
+  <region id="180006" name="Jackson Hole">
+    <hotelprice>166.00</hotelprice>
+    <pkgprice>0.00</pkgprice>
+  </region>
+  <region id="180011" name="Mazatlan">
+    <hotelprice>59.00</hotelprice>
+    <pkgprice>483.00</pkgprice>
+  </region>
+  <region id="180015" name="Providence">
+    <hotelprice>71.00</hotelprice>
+    <pkgprice>380.00</pkgprice>
+  </region>
+  <region id="180016" name="Vallarta">
+    <hotelprice>53.00</hotelprice>
+    <pkgprice>446.00</pkgprice>
+  </region>
+  <region id="180021" name="Puerto Rico">
+    <hotelprice>83.00</hotelprice>
+    <pkgprice>474.00</pkgprice>
+  </region>
+  <region id="180023" name="Sao Paulo">
+    <hotelprice>74.00</hotelprice>
+    <pkgprice>1088.00</pkgprice>
+  </region>
+  <region id="180024" name="Dominican Republic">
+    <hotelprice>120.00</hotelprice>
+    <pkgprice>696.00</pkgprice>
+  </region>
+  <region id="180026" name="Shanghai">
+    <hotelprice>35.00</hotelprice>
+    <pkgprice>1338.00</pkgprice>
+  </region>
+  <region id="180032" name="Los Cabos">
+    <hotelprice>70.00</hotelprice>
+    <pkgprice>549.00</pkgprice>
+  </region>
+  <region id="180033" name="Cozumel">
+    <hotelprice>63.00</hotelprice>
+    <pkgprice>508.00</pkgprice>
+  </region>
+  <region id="180038" name="Aspen">
+    <hotelprice>118.00</hotelprice>
+    <pkgprice>0.00</pkgprice>
+  </region>
+  <region id="180041" name="Lake Tahoe">
+    <hotelprice>102.00</hotelprice>
+    <pkgprice>382.00</pkgprice>
+  </region>
+  <region id="180046" name="Wine Country - Napa Valley">
+    <hotelprice>167.00</hotelprice>
+    <pkgprice>547.00</pkgprice>
+  </region>
+  <region id="180049" name="Sacramento">
+    <hotelprice>39.00</hotelprice>
+    <pkgprice>281.00</pkgprice>
+  </region>
+  <region id="180052" name="Wine Country - Sonoma Valley">
+    <hotelprice>46.00</hotelprice>
+    <pkgprice>279.00</pkgprice>
+  </region>
+  <region id="180056" name="Telluride">
+    <hotelprice>132.00</hotelprice>
+    <pkgprice>745.00</pkgprice>
+  </region>
+  <region id="180058" name="Winter Park">
+    <hotelprice>77.00</hotelprice>
+    <pkgprice>432.00</pkgprice>
+  </region>
+  <region id="180061" name="Cape Cod">
+    <hotelprice>103.00</hotelprice>
+    <pkgprice>754.00</pkgprice>
+  </region>
+  <region id="180071" name="Whistler">
+    <hotelprice>111.00</hotelprice>
+    <pkgprice>475.00</pkgprice>
+  </region>
+  <region id="180073" name="Maui">
+    <hotelprice>99.00</hotelprice>
+    <pkgprice>722.00</pkgprice>
+  </region>
+  <region id="180074" name="Big Island">
+    <hotelprice>110.00</hotelprice>
+    <pkgprice>817.00</pkgprice>
+  </region>
+  <region id="180075" name="Kauai">
+    <hotelprice>92.00</hotelprice>
+    <pkgprice>763.00</pkgprice>
+  </region>
+  <region id="180077" name="Oahu">
+    <hotelprice>74.00</hotelprice>
+    <pkgprice>654.00</pkgprice>
+  </region>
+  <region id="180106" name="Jamaica">
+    <hotelprice>58.00</hotelprice>
+    <pkgprice>465.00</pkgprice>
+  </region>
+  <region id="180390" name="Barbados">
+    <hotelprice>61.00</hotelprice>
+    <pkgprice>702.00</pkgprice>
+  </region>
+  <region id="180676" name="Palm Springs">
+    <hotelprice>0.00</hotelprice>
+    <pkgprice>0.00</pkgprice>
+  </region>
+  <region id="181550" name="St. Thomas">
+    <hotelprice>199.00</hotelprice>
+    <pkgprice>857.00</pkgprice>
+  </region>
+  <region id="184245" name="Hong Kong">
+    <hotelprice>45.00</hotelprice>
+    <pkgprice>1199.00</pkgprice>
+  </region>
+  <region id="601685" name="Myrtle Beach">
+    <hotelprice>89.00</hotelprice>
+    <pkgprice>539.00</pkgprice>
+  </region>
+  <region id="601691" name="Gatlinburg/Pigeon Forge">
+    <hotelprice>60.00</hotelprice>
+    <pkgprice>454.00</pkgprice>
+  </region>
+  <region id="601713" name="Aruba">
+    <hotelprice>79.00</hotelprice>
+    <pkgprice>634.00</pkgprice>
+  </region>
+  <region id="601716" name="Jamaica">
+    <hotelprice>60.00</hotelprice>
+    <pkgprice>456.00</pkgprice>
+  </region>
+  <region id="601750" name="Fort Lauderdale">
+    <hotelprice>55.00</hotelprice>
+    <pkgprice>322.00</pkgprice>
+  </region>
+  <region id="601784" name="Bahamas">
+    <hotelprice>104.00</hotelprice>
+    <pkgprice>556.00</pkgprice>
+  </region>
+  <region id="601900" name="St. Lucia">
+    <hotelprice>102.00</hotelprice>
+    <pkgprice>759.00</pkgprice>
+  </region>
+  <region id="601906" name="Dominican Republic">
+    <hotelprice>117.00</hotelprice>
+    <pkgprice>754.00</pkgprice>
+  </region>
+  <region id="602171" name="St. Croix">
+    <hotelprice>125.00</hotelprice>
+    <pkgprice>730.00</pkgprice>
+  </region>
+  <region id="602179" name="Atlantic City">
+    <hotelprice>39.00</hotelprice>
+    <pkgprice>0.00</pkgprice>
+  </region>
+  <region id="602277" name="Santa Barbara">
+    <hotelprice>97.00</hotelprice>
+    <pkgprice>538.00</pkgprice>
+  </region>
+  <region id="602278" name="Palm Beach">
+    <hotelprice>66.00</hotelprice>
+    <pkgprice>354.00</pkgprice>
+  </region>
+  <region id="602285" name="Park City">
+    <hotelprice>76.00</hotelprice>
+    <pkgprice>436.00</pkgprice>
+  </region>
+  <region id="602291" name="Banff/Lake Louise">
+    <hotelprice>179.00</hotelprice>
+    <pkgprice>738.00</pkgprice>
+  </region>
+  <region id="602310" name="St. Kitts">
+    <hotelprice>100.00</hotelprice>
+    <pkgprice>706.00</pkgprice>
+  </region>
+  <region id="602484" name="Bahamas">
+    <hotelprice>147.00</hotelprice>
+    <pkgprice>734.00</pkgprice>
+  </region>
+  <region id="602688" name="Reno">
+    <hotelprice>53.00</hotelprice>
+    <pkgprice>325.00</pkgprice>
+  </region>
+  <region id="602721" name="Niagara Falls">
+    <hotelprice>82.00</hotelprice>
+    <pkgprice>381.00</pkgprice>
+  </region>
+  <region id="602724" name="Naples">
+    <hotelprice>62.00</hotelprice>
+    <pkgprice>361.00</pkgprice>
+  </region>
+  <region id="602729" name="Fort Myers">
+    <hotelprice>97.00</hotelprice>
+    <pkgprice>396.00</pkgprice>
+  </region>
+  <region id="602901" name="Riviera Maya">
+    <hotelprice>56.00</hotelprice>
+    <pkgprice>450.00</pkgprice>
+  </region>
+  <region id="602968" name="Greensboro">
+    <hotelprice>75.00</hotelprice>
+    <pkgprice>467.00</pkgprice>
+  </region>
+  <region id="602988" name="Fresno">
+    <hotelprice>53.00</hotelprice>
+    <pkgprice>449.00</pkgprice>
+  </region>
+  <region id="602996" name="Tampa">
+    <hotelprice>104.00</hotelprice>
+    <pkgprice>380.00</pkgprice>
+  </region>
+  <region id="602998" name="Boise">
+    <hotelprice>67.00</hotelprice>
+    <pkgprice>461.00</pkgprice>
+  </region>
+  <region id="603002" name="Louisville">
+    <hotelprice>53.00</hotelprice>
+    <pkgprice>454.00</pkgprice>
+  </region>
+  <region id="603085" name="San Jose">
+    <hotelprice>85.00</hotelprice>
+    <pkgprice>658.00</pkgprice>
+  </region>
+  <region id="6023334" name="St. Martin">
+    <hotelprice>130.00</hotelprice>
+    <pkgprice>688.00</pkgprice>
+  </region>
+  <region id="6023598" name="Fiji">
+    <hotelprice>81.00</hotelprice>
+    <pkgprice>1414.00</pkgprice>
+  </region>
+  <region id="6023765" name="Florida Keys">
+    <hotelprice>90.00</hotelprice>
+    <pkgprice>564.00</pkgprice>
+  </region>
+  <region id="6023769" name="Silicon Valley">
+    <hotelprice>48.00</hotelprice>
+    <pkgprice>327.00</pkgprice>
+  </region>
+  <region id="6023995" name="Daytona Beach">
+    <hotelprice>63.00</hotelprice>
+    <pkgprice>384.00</pkgprice>
+  </region>
+  <region id="6034190" name="Savannah">
+    <hotelprice>74.00</hotelprice>
+    <pkgprice>486.00</pkgprice>
+  </region>
+  <region id="6034855" name="Sandusky">
+    <hotelprice>42.00</hotelprice>
+    <pkgprice>424.00</pkgprice>
+  </region>
+  <region id="6046772" name="Dominican Republic">
+    <hotelprice>83.00</hotelprice>
+    <pkgprice>575.00</pkgprice>
+  </region>
+  <region id="6046791" name="Antalya">
+    <hotelprice>62.00</hotelprice>
+    <pkgprice>1710.00</pkgprice>
+  </region>
+  <region id="6046822" name="San Luis Obispo">
+    <hotelprice>63.00</hotelprice>
+    <pkgprice>0.00</pkgprice>
+  </region>
+  <region id="6047864" name="St. Augustine">
+    <hotelprice>0.00</hotelprice>
+    <pkgprice>0.00</pkgprice>
+  </region>
+  <region id="6048790" name="Dominican Republic">
+    <hotelprice>98.00</hotelprice>
+    <pkgprice>596.00</pkgprice>
+  </region>
+  <region id="6051123" name="Chiang Mai">
+    <hotelprice>0.00</hotelprice>
+    <pkgprice>0.00</pkgprice>
+  </region>
+  <region id="6052902" name="Guanacaste">
+    <hotelprice>89.00</hotelprice>
+    <pkgprice>746.00</pkgprice>
+  </region>
+  <region id="6053838" name="Abu Dhabi">
+    <hotelprice>150.00</hotelprice>
+    <pkgprice>1846.00</pkgprice>
+  </region>
+  <region id="6055439" name="Okanagan Valley">
+    <hotelprice>146.00</hotelprice>
+    <pkgprice>826.00</pkgprice>
+  </region>
+  <region id="6057386" name="Stowe">
+    <hotelprice>87.00</hotelprice>
+    <pkgprice>485.00</pkgprice>
+  </region>
+  <region id="6058734" name="Branson">
+    <hotelprice>47.00</hotelprice>
+    <pkgprice>431.00</pkgprice>
+  </region>
+</soatripfinder>
